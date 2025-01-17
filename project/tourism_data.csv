@@ -1,0 +1,1501 @@
+City,Continent,City Type,Tourism Type,Weather,Accommodation Cost,Transportation Cost
+Cairo,Africa,historical,cultural,tropical,461,40
+Cairo,Africa,historical,cultural,temperate,307,14
+Cairo,Africa,historical,cultural,arid,157,14
+Cairo,Africa,historical,cultural,cold,45,221
+Cairo,Africa,historical,cultural,rainy,472,238
+Cairo,Africa,historical,cultural,cloudy,80,186
+Cairo,Africa,historical,adventure,tropical,83,210
+Cairo,Africa,historical,adventure,temperate,364,236
+Cairo,Africa,historical,adventure,arid,176,139
+Cairo,Africa,historical,adventure,cold,410,206
+Cairo,Africa,historical,adventure,rainy,116,168
+Cairo,Africa,historical,adventure,cloudy,427,185
+Cairo,Africa,historical,beach,tropical,181,243
+Cairo,Africa,historical,beach,temperate,489,254
+Cairo,Africa,historical,beach,arid,289,50
+Cairo,Africa,historical,beach,cold,328,133
+Cairo,Africa,historical,beach,rainy,440,289
+Cairo,Africa,historical,beach,cloudy,25,50
+Cairo,Africa,historical,medical,tropical,418,123
+Cairo,Africa,historical,medical,temperate,294,52
+Cairo,Africa,historical,medical,arid,377,295
+Cairo,Africa,historical,medical,cold,195,255
+Cairo,Africa,historical,medical,rainy,325,249
+Cairo,Africa,historical,medical,cloudy,126,109
+Cairo,Africa,historical,nature,tropical,419,172
+Cairo,Africa,historical,nature,temperate,218,155
+Cairo,Africa,historical,nature,arid,124,143
+Cairo,Africa,historical,nature,cold,100,288
+Cairo,Africa,historical,nature,rainy,23,218
+Cairo,Africa,historical,nature,cloudy,348,290
+Cairo,Africa,mountains,cultural,tropical,257,239
+Cairo,Africa,mountains,cultural,temperate,351,145
+Cairo,Africa,mountains,cultural,arid,256,26
+Cairo,Africa,mountains,cultural,cold,316,127
+Cairo,Africa,mountains,cultural,rainy,76,144
+Cairo,Africa,mountains,cultural,cloudy,369,78
+Cairo,Africa,mountains,adventure,tropical,136,266
+Cairo,Africa,mountains,adventure,temperate,299,23
+Cairo,Africa,mountains,adventure,arid,239,26
+Cairo,Africa,mountains,adventure,cold,465,10
+Cairo,Africa,mountains,adventure,rainy,262,144
+Cairo,Africa,mountains,adventure,cloudy,195,143
+Cairo,Africa,mountains,beach,tropical,139,189
+Cairo,Africa,mountains,beach,temperate,58,139
+Cairo,Africa,mountains,beach,arid,430,11
+Cairo,Africa,mountains,beach,cold,486,217
+Cairo,Africa,mountains,beach,rainy,453,245
+Cairo,Africa,mountains,beach,cloudy,128,138
+Cairo,Africa,mountains,medical,tropical,286,58
+Cairo,Africa,mountains,medical,temperate,207,225
+Cairo,Africa,mountains,medical,arid,252,273
+Cairo,Africa,mountains,medical,cold,104,96
+Cairo,Africa,mountains,medical,rainy,63,61
+Cairo,Africa,mountains,medical,cloudy,271,241
+Cairo,Africa,mountains,nature,tropical,132,263
+Cairo,Africa,mountains,nature,temperate,249,200
+Cairo,Africa,mountains,nature,arid,227,227
+Cairo,Africa,mountains,nature,cold,471,25
+Cairo,Africa,mountains,nature,rainy,462,51
+Cairo,Africa,mountains,nature,cloudy,384,79
+Cairo,Africa,urban,cultural,tropical,477,200
+Cairo,Africa,urban,cultural,temperate,357,126
+Cairo,Africa,urban,cultural,arid,211,226
+Cairo,Africa,urban,cultural,cold,490,232
+Cairo,Africa,urban,cultural,rainy,256,67
+Cairo,Africa,urban,cultural,cloudy,340,98
+Cairo,Africa,urban,adventure,tropical,52,247
+Cairo,Africa,urban,adventure,temperate,223,109
+Cairo,Africa,urban,adventure,arid,28,218
+Cairo,Africa,urban,adventure,cold,142,196
+Cairo,Africa,urban,adventure,rainy,342,223
+Cairo,Africa,urban,adventure,cloudy,452,136
+Cairo,Africa,urban,beach,tropical,181,131
+Cairo,Africa,urban,beach,temperate,247,169
+Cairo,Africa,urban,beach,arid,484,111
+Cairo,Africa,urban,beach,cold,77,63
+Cairo,Africa,urban,beach,rainy,101,97
+Cairo,Africa,urban,beach,cloudy,473,114
+Cairo,Africa,urban,medical,tropical,368,19
+Cairo,Africa,urban,medical,temperate,78,68
+Cairo,Africa,urban,medical,arid,39,43
+Cairo,Africa,urban,medical,cold,313,297
+Cairo,Africa,urban,medical,rainy,395,94
+Cairo,Africa,urban,medical,cloudy,116,69
+Cairo,Africa,urban,nature,tropical,188,241
+Cairo,Africa,urban,nature,temperate,106,108
+Cairo,Africa,urban,nature,arid,248,17
+Cairo,Africa,urban,nature,cold,415,209
+Cairo,Africa,urban,nature,rainy,450,61
+Cairo,Africa,urban,nature,cloudy,324,285
+Cairo,Africa,coastal,cultural,tropical,340,230
+Cairo,Africa,coastal,cultural,temperate,171,62
+Cairo,Africa,coastal,cultural,arid,452,119
+Cairo,Africa,coastal,cultural,cold,355,50
+Cairo,Africa,coastal,cultural,rainy,283,82
+Cairo,Africa,coastal,cultural,cloudy,147,19
+Cairo,Africa,coastal,adventure,tropical,418,274
+Cairo,Africa,coastal,adventure,temperate,101,225
+Cairo,Africa,coastal,adventure,arid,70,296
+Cairo,Africa,coastal,adventure,cold,138,32
+Cairo,Africa,coastal,adventure,rainy,379,76
+Cairo,Africa,coastal,adventure,cloudy,247,39
+Cairo,Africa,coastal,beach,tropical,211,104
+Cairo,Africa,coastal,beach,temperate,253,102
+Cairo,Africa,coastal,beach,arid,479,219
+Cairo,Africa,coastal,beach,cold,443,39
+Cairo,Africa,coastal,beach,rainy,212,41
+Cairo,Africa,coastal,beach,cloudy,389,39
+Cairo,Africa,coastal,medical,tropical,441,228
+Cairo,Africa,coastal,medical,temperate,442,222
+Cairo,Africa,coastal,medical,arid,277,91
+Cairo,Africa,coastal,medical,cold,222,48
+Cairo,Africa,coastal,medical,rainy,231,295
+Cairo,Africa,coastal,medical,cloudy,102,26
+Cairo,Africa,coastal,nature,tropical,201,28
+Cairo,Africa,coastal,nature,temperate,329,284
+Cairo,Africa,coastal,nature,arid,27,153
+Cairo,Africa,coastal,nature,cold,492,132
+Cairo,Africa,coastal,nature,rainy,477,158
+Cairo,Africa,coastal,nature,cloudy,394,130
+Alexandria,Africa,historical,cultural,tropical,418,37
+Alexandria,Africa,historical,cultural,temperate,89,253
+Alexandria,Africa,historical,cultural,arid,438,23
+Alexandria,Africa,historical,cultural,cold,421,31
+Alexandria,Africa,historical,cultural,rainy,66,233
+Alexandria,Africa,historical,cultural,cloudy,239,251
+Alexandria,Africa,historical,adventure,tropical,166,179
+Alexandria,Africa,historical,adventure,temperate,88,270
+Alexandria,Africa,historical,adventure,arid,409,217
+Alexandria,Africa,historical,adventure,cold,92,99
+Alexandria,Africa,historical,adventure,rainy,234,154
+Alexandria,Africa,historical,adventure,cloudy,114,54
+Alexandria,Africa,historical,beach,tropical,164,162
+Alexandria,Africa,historical,beach,temperate,390,98
+Alexandria,Africa,historical,beach,arid,101,64
+Alexandria,Africa,historical,beach,cold,353,12
+Alexandria,Africa,historical,beach,rainy,392,38
+Alexandria,Africa,historical,beach,cloudy,334,96
+Alexandria,Africa,historical,medical,tropical,149,129
+Alexandria,Africa,historical,medical,temperate,90,13
+Alexandria,Africa,historical,medical,arid,389,228
+Alexandria,Africa,historical,medical,cold,361,210
+Alexandria,Africa,historical,medical,rainy,418,93
+Alexandria,Africa,historical,medical,cloudy,399,272
+Alexandria,Africa,historical,nature,tropical,58,155
+Alexandria,Africa,historical,nature,temperate,193,39
+Alexandria,Africa,historical,nature,arid,473,74
+Alexandria,Africa,historical,nature,cold,289,29
+Alexandria,Africa,historical,nature,rainy,291,81
+Alexandria,Africa,historical,nature,cloudy,240,271
+Alexandria,Africa,mountains,cultural,tropical,87,159
+Alexandria,Africa,mountains,cultural,temperate,400,196
+Alexandria,Africa,mountains,cultural,arid,445,153
+Alexandria,Africa,mountains,cultural,cold,186,188
+Alexandria,Africa,mountains,cultural,rainy,126,44
+Alexandria,Africa,mountains,cultural,cloudy,439,262
+Alexandria,Africa,mountains,adventure,tropical,451,167
+Alexandria,Africa,mountains,adventure,temperate,356,267
+Alexandria,Africa,mountains,adventure,arid,333,215
+Alexandria,Africa,mountains,adventure,cold,166,146
+Alexandria,Africa,mountains,adventure,rainy,283,94
+Alexandria,Africa,mountains,adventure,cloudy,28,81
+Alexandria,Africa,mountains,beach,tropical,289,100
+Alexandria,Africa,mountains,beach,temperate,157,30
+Alexandria,Africa,mountains,beach,arid,487,116
+Alexandria,Africa,mountains,beach,cold,267,270
+Alexandria,Africa,mountains,beach,rainy,235,66
+Alexandria,Africa,mountains,beach,cloudy,397,65
+Alexandria,Africa,mountains,medical,tropical,335,207
+Alexandria,Africa,mountains,medical,temperate,111,119
+Alexandria,Africa,mountains,medical,arid,468,145
+Alexandria,Africa,mountains,medical,cold,478,224
+Alexandria,Africa,mountains,medical,rainy,223,292
+Alexandria,Africa,mountains,medical,cloudy,230,143
+Alexandria,Africa,mountains,nature,tropical,210,297
+Alexandria,Africa,mountains,nature,temperate,274,234
+Alexandria,Africa,mountains,nature,arid,168,139
+Alexandria,Africa,mountains,nature,cold,470,256
+Alexandria,Africa,mountains,nature,rainy,45,254
+Alexandria,Africa,mountains,nature,cloudy,498,251
+Alexandria,Africa,urban,cultural,tropical,182,75
+Alexandria,Africa,urban,cultural,temperate,415,136
+Alexandria,Africa,urban,cultural,arid,185,73
+Alexandria,Africa,urban,cultural,cold,345,178
+Alexandria,Africa,urban,cultural,rainy,248,300
+Alexandria,Africa,urban,cultural,cloudy,209,211
+Alexandria,Africa,urban,adventure,tropical,66,159
+Alexandria,Africa,urban,adventure,temperate,429,175
+Alexandria,Africa,urban,adventure,arid,189,136
+Alexandria,Africa,urban,adventure,cold,75,21
+Alexandria,Africa,urban,adventure,rainy,480,160
+Alexandria,Africa,urban,adventure,cloudy,480,223
+Alexandria,Africa,urban,beach,tropical,484,102
+Alexandria,Africa,urban,beach,temperate,335,277
+Alexandria,Africa,urban,beach,arid,149,296
+Alexandria,Africa,urban,beach,cold,253,234
+Alexandria,Africa,urban,beach,rainy,387,241
+Alexandria,Africa,urban,beach,cloudy,126,297
+Alexandria,Africa,urban,medical,tropical,292,223
+Alexandria,Africa,urban,medical,temperate,173,81
+Alexandria,Africa,urban,medical,arid,223,177
+Alexandria,Africa,urban,medical,cold,147,140
+Alexandria,Africa,urban,medical,rainy,345,102
+Alexandria,Africa,urban,medical,cloudy,51,146
+Alexandria,Africa,urban,nature,tropical,472,145
+Alexandria,Africa,urban,nature,temperate,227,252
+Alexandria,Africa,urban,nature,arid,381,283
+Alexandria,Africa,urban,nature,cold,227,37
+Alexandria,Africa,urban,nature,rainy,127,248
+Alexandria,Africa,urban,nature,cloudy,112,68
+Alexandria,Africa,coastal,cultural,tropical,147,223
+Alexandria,Africa,coastal,cultural,temperate,198,289
+Alexandria,Africa,coastal,cultural,arid,473,289
+Alexandria,Africa,coastal,cultural,cold,123,38
+Alexandria,Africa,coastal,cultural,rainy,66,126
+Alexandria,Africa,coastal,cultural,cloudy,402,112
+Alexandria,Africa,coastal,adventure,tropical,425,116
+Alexandria,Africa,coastal,adventure,temperate,202,65
+Alexandria,Africa,coastal,adventure,arid,320,184
+Alexandria,Africa,coastal,adventure,cold,348,74
+Alexandria,Africa,coastal,adventure,rainy,64,152
+Alexandria,Africa,coastal,adventure,cloudy,53,65
+Alexandria,Africa,coastal,beach,tropical,286,204
+Alexandria,Africa,coastal,beach,temperate,375,267
+Alexandria,Africa,coastal,beach,arid,412,208
+Alexandria,Africa,coastal,beach,cold,204,126
+Alexandria,Africa,coastal,beach,rainy,223,182
+Alexandria,Africa,coastal,beach,cloudy,393,198
+Alexandria,Africa,coastal,medical,tropical,145,77
+Alexandria,Africa,coastal,medical,temperate,369,145
+Alexandria,Africa,coastal,medical,arid,323,115
+Alexandria,Africa,coastal,medical,cold,470,131
+Alexandria,Africa,coastal,medical,rainy,123,102
+Alexandria,Africa,coastal,medical,cloudy,69,237
+Alexandria,Africa,coastal,nature,tropical,29,53
+Alexandria,Africa,coastal,nature,temperate,101,50
+Alexandria,Africa,coastal,nature,arid,334,171
+Alexandria,Africa,coastal,nature,cold,59,29
+Alexandria,Africa,coastal,nature,rainy,373,195
+Alexandria,Africa,coastal,nature,cloudy,161,30
+Giza,Africa,historical,cultural,tropical,230,276
+Giza,Africa,historical,cultural,temperate,464,167
+Giza,Africa,historical,cultural,arid,192,93
+Giza,Africa,historical,cultural,cold,390,278
+Giza,Africa,historical,cultural,rainy,50,26
+Giza,Africa,historical,cultural,cloudy,432,257
+Giza,Africa,historical,adventure,tropical,194,134
+Giza,Africa,historical,adventure,temperate,272,62
+Giza,Africa,historical,adventure,arid,380,161
+Giza,Africa,historical,adventure,cold,294,97
+Tokyo,Asia,historical,cultural,tropical,192,229
+Tokyo,Asia,historical,cultural,temperate,328,224
+Tokyo,Asia,historical,cultural,arid,360,147
+Tokyo,Asia,historical,cultural,cold,467,209
+Tokyo,Asia,historical,cultural,rainy,348,178
+Tokyo,Asia,historical,cultural,cloudy,218,254
+Tokyo,Asia,historical,adventure,tropical,411,188
+Tokyo,Asia,historical,adventure,temperate,306,285
+Tokyo,Asia,historical,adventure,arid,166,240
+Tokyo,Asia,historical,adventure,cold,203,73
+Tokyo,Asia,historical,adventure,rainy,423,282
+Tokyo,Asia,historical,adventure,cloudy,424,13
+Tokyo,Asia,historical,beach,tropical,386,123
+Tokyo,Asia,historical,beach,temperate,459,69
+Tokyo,Asia,historical,beach,arid,464,73
+Tokyo,Asia,historical,beach,cold,130,54
+Tokyo,Asia,historical,beach,rainy,360,226
+Tokyo,Asia,historical,beach,cloudy,467,190
+Tokyo,Asia,historical,medical,tropical,40,20
+Tokyo,Asia,historical,medical,temperate,246,34
+Tokyo,Asia,historical,medical,arid,197,193
+Tokyo,Asia,historical,medical,cold,490,169
+Tokyo,Asia,historical,medical,rainy,29,125
+Tokyo,Asia,historical,medical,cloudy,285,41
+Tokyo,Asia,historical,nature,tropical,100,140
+Tokyo,Asia,historical,nature,temperate,488,77
+Tokyo,Asia,historical,nature,arid,324,237
+Tokyo,Asia,historical,nature,cold,101,149
+Tokyo,Asia,historical,nature,rainy,251,219
+Tokyo,Asia,historical,nature,cloudy,481,165
+Tokyo,Asia,mountains,cultural,tropical,235,97
+Tokyo,Asia,mountains,cultural,temperate,178,63
+Tokyo,Asia,mountains,cultural,arid,498,36
+Tokyo,Asia,mountains,cultural,cold,436,231
+Tokyo,Asia,mountains,cultural,rainy,146,59
+Tokyo,Asia,mountains,cultural,cloudy,347,107
+Tokyo,Asia,mountains,adventure,tropical,209,165
+Tokyo,Asia,mountains,adventure,temperate,30,114
+Tokyo,Asia,mountains,adventure,arid,94,177
+Tokyo,Asia,mountains,adventure,cold,79,71
+Tokyo,Asia,mountains,adventure,rainy,103,211
+Tokyo,Asia,mountains,adventure,cloudy,464,29
+Tokyo,Asia,mountains,beach,tropical,383,200
+Tokyo,Asia,mountains,beach,temperate,160,182
+Tokyo,Asia,mountains,beach,arid,441,102
+Tokyo,Asia,mountains,beach,cold,312,103
+Tokyo,Asia,mountains,beach,rainy,346,226
+Tokyo,Asia,mountains,beach,cloudy,443,120
+Tokyo,Asia,mountains,medical,tropical,473,233
+Tokyo,Asia,mountains,medical,temperate,420,219
+Tokyo,Asia,mountains,medical,arid,298,83
+Tokyo,Asia,mountains,medical,cold,321,21
+Tokyo,Asia,mountains,medical,rainy,62,13
+Tokyo,Asia,mountains,medical,cloudy,226,262
+Tokyo,Asia,mountains,nature,tropical,450,208
+Tokyo,Asia,mountains,nature,temperate,151,137
+Tokyo,Asia,mountains,nature,arid,141,198
+Tokyo,Asia,mountains,nature,cold,369,84
+Tokyo,Asia,mountains,nature,rainy,377,248
+Tokyo,Asia,mountains,nature,cloudy,38,96
+Tokyo,Asia,urban,cultural,tropical,431,45
+Tokyo,Asia,urban,cultural,temperate,148,236
+Tokyo,Asia,urban,cultural,arid,230,204
+Tokyo,Asia,urban,cultural,cold,25,183
+Tokyo,Asia,urban,cultural,rainy,496,67
+Tokyo,Asia,urban,cultural,cloudy,435,132
+Tokyo,Asia,urban,adventure,tropical,477,46
+Tokyo,Asia,urban,adventure,temperate,197,91
+Tokyo,Asia,urban,adventure,arid,482,285
+Tokyo,Asia,urban,adventure,cold,54,170
+Tokyo,Asia,urban,adventure,rainy,114,32
+Tokyo,Asia,urban,adventure,cloudy,285,197
+Tokyo,Asia,urban,beach,tropical,219,174
+Tokyo,Asia,urban,beach,temperate,91,23
+Tokyo,Asia,urban,beach,arid,327,287
+Tokyo,Asia,urban,beach,cold,58,160
+Tokyo,Asia,urban,beach,rainy,213,116
+Tokyo,Asia,urban,beach,cloudy,354,138
+Tokyo,Asia,urban,medical,tropical,159,278
+Tokyo,Asia,urban,medical,temperate,178,300
+Tokyo,Asia,urban,medical,arid,276,224
+Tokyo,Asia,urban,medical,cold,267,39
+Tokyo,Asia,urban,medical,rainy,265,285
+Tokyo,Asia,urban,medical,cloudy,148,81
+Tokyo,Asia,urban,nature,tropical,21,296
+Tokyo,Asia,urban,nature,temperate,301,139
+Tokyo,Asia,urban,nature,arid,273,167
+Tokyo,Asia,urban,nature,cold,166,204
+Tokyo,Asia,urban,nature,rainy,166,263
+Tokyo,Asia,urban,nature,cloudy,175,123
+Tokyo,Asia,coastal,cultural,tropical,427,294
+Tokyo,Asia,coastal,cultural,temperate,422,52
+Tokyo,Asia,coastal,cultural,arid,364,105
+Tokyo,Asia,coastal,cultural,cold,138,152
+Tokyo,Asia,coastal,cultural,rainy,37,200
+Tokyo,Asia,coastal,cultural,cloudy,315,54
+Tokyo,Asia,coastal,adventure,tropical,253,59
+Tokyo,Asia,coastal,adventure,temperate,69,34
+Tokyo,Asia,coastal,adventure,arid,366,30
+Tokyo,Asia,coastal,adventure,cold,58,70
+Tokyo,Asia,coastal,adventure,rainy,71,278
+Tokyo,Asia,coastal,adventure,cloudy,159,73
+Tokyo,Asia,coastal,beach,tropical,497,254
+Tokyo,Asia,coastal,beach,temperate,79,241
+Tokyo,Asia,coastal,beach,arid,359,190
+Tokyo,Asia,coastal,beach,cold,222,246
+Tokyo,Asia,coastal,beach,rainy,160,185
+Tokyo,Asia,coastal,beach,cloudy,172,218
+Tokyo,Asia,coastal,medical,tropical,165,45
+Tokyo,Asia,coastal,medical,temperate,35,217
+Tokyo,Asia,coastal,medical,arid,390,145
+Tokyo,Asia,coastal,medical,cold,431,277
+Tokyo,Asia,coastal,medical,rainy,370,137
+Tokyo,Asia,coastal,medical,cloudy,433,26
+Tokyo,Asia,coastal,nature,tropical,338,16
+Tokyo,Asia,coastal,nature,temperate,265,226
+Tokyo,Asia,coastal,nature,arid,147,140
+Tokyo,Asia,coastal,nature,cold,268,65
+Tokyo,Asia,coastal,nature,rainy,423,175
+Tokyo,Asia,coastal,nature,cloudy,129,171
+Kyoto,Asia,historical,cultural,tropical,133,67
+Kyoto,Asia,historical,cultural,temperate,109,192
+Kyoto,Asia,historical,cultural,arid,280,157
+Kyoto,Asia,historical,cultural,cold,98,47
+Kyoto,Asia,historical,cultural,rainy,423,67
+Kyoto,Asia,historical,cultural,cloudy,20,254
+Kyoto,Asia,historical,adventure,tropical,212,201
+Kyoto,Asia,historical,adventure,temperate,288,165
+Kyoto,Asia,historical,adventure,arid,471,121
+Kyoto,Asia,historical,adventure,cold,291,222
+Kyoto,Asia,historical,adventure,rainy,332,164
+Kyoto,Asia,historical,adventure,cloudy,106,112
+Kyoto,Asia,historical,beach,tropical,394,53
+Kyoto,Asia,historical,beach,temperate,123,292
+Kyoto,Asia,historical,beach,arid,94,71
+Kyoto,Asia,historical,beach,cold,327,50
+Kyoto,Asia,historical,beach,rainy,330,72
+Kyoto,Asia,historical,beach,cloudy,29,73
+Kyoto,Asia,historical,medical,tropical,359,73
+Kyoto,Asia,historical,medical,temperate,141,23
+Kyoto,Asia,historical,medical,arid,211,239
+Kyoto,Asia,historical,medical,cold,161,23
+Kyoto,Asia,historical,medical,rainy,249,103
+Kyoto,Asia,historical,medical,cloudy,323,109
+Kyoto,Asia,historical,nature,tropical,350,262
+Kyoto,Asia,historical,nature,temperate,159,119
+Kyoto,Asia,historical,nature,arid,181,107
+Kyoto,Asia,historical,nature,cold,413,82
+Kyoto,Asia,historical,nature,rainy,240,24
+Kyoto,Asia,historical,nature,cloudy,305,55
+Kyoto,Asia,mountains,cultural,tropical,266,247
+Kyoto,Asia,mountains,cultural,temperate,303,66
+Kyoto,Asia,mountains,cultural,arid,247,136
+Kyoto,Asia,mountains,cultural,cold,373,41
+Kyoto,Asia,mountains,cultural,rainy,368,239
+Kyoto,Asia,mountains,cultural,cloudy,340,259
+Kyoto,Asia,mountains,adventure,tropical,494,200
+Kyoto,Asia,mountains,adventure,temperate,441,92
+Kyoto,Asia,mountains,adventure,arid,114,195
+Kyoto,Asia,mountains,adventure,cold,307,250
+Kyoto,Asia,mountains,adventure,rainy,466,238
+Kyoto,Asia,mountains,adventure,cloudy,486,195
+Kyoto,Asia,mountains,beach,tropical,37,250
+Kyoto,Asia,mountains,beach,temperate,472,113
+Kyoto,Asia,mountains,beach,arid,351,16
+Kyoto,Asia,mountains,beach,cold,268,151
+Kyoto,Asia,mountains,beach,rainy,488,266
+Kyoto,Asia,mountains,beach,cloudy,415,171
+Kyoto,Asia,mountains,medical,tropical,369,123
+Kyoto,Asia,mountains,medical,temperate,23,253
+Kyoto,Asia,mountains,medical,arid,338,214
+Kyoto,Asia,mountains,medical,cold,238,41
+Kyoto,Asia,mountains,medical,rainy,91,284
+Kyoto,Asia,mountains,medical,cloudy,146,40
+Kyoto,Asia,mountains,nature,tropical,216,234
+Kyoto,Asia,mountains,nature,temperate,220,294
+Kyoto,Asia,mountains,nature,arid,170,102
+Kyoto,Asia,mountains,nature,cold,237,202
+Kyoto,Asia,mountains,nature,rainy,87,194
+Kyoto,Asia,mountains,nature,cloudy,374,57
+Kyoto,Asia,urban,cultural,tropical,153,205
+Kyoto,Asia,urban,cultural,temperate,342,29
+Kyoto,Asia,urban,cultural,arid,317,163
+Kyoto,Asia,urban,cultural,cold,218,283
+Kyoto,Asia,urban,cultural,rainy,120,39
+Kyoto,Asia,urban,cultural,cloudy,192,195
+Kyoto,Asia,urban,adventure,tropical,236,215
+Kyoto,Asia,urban,adventure,temperate,211,95
+Kyoto,Asia,urban,adventure,arid,324,248
+Kyoto,Asia,urban,adventure,cold,242,157
+Kyoto,Asia,urban,adventure,rainy,94,209
+Kyoto,Asia,urban,adventure,cloudy,487,17
+Kyoto,Asia,urban,beach,tropical,360,77
+Kyoto,Asia,urban,beach,temperate,68,195
+Kyoto,Asia,urban,beach,arid,149,127
+Kyoto,Asia,urban,beach,cold,203,231
+Kyoto,Asia,urban,beach,rainy,25,151
+Kyoto,Asia,urban,beach,cloudy,212,17
+Kyoto,Asia,urban,medical,tropical,428,52
+Kyoto,Asia,urban,medical,temperate,226,248
+Kyoto,Asia,urban,medical,arid,352,184
+Kyoto,Asia,urban,medical,cold,185,245
+Kyoto,Asia,urban,medical,rainy,73,281
+Kyoto,Asia,urban,medical,cloudy,181,148
+Kyoto,Asia,urban,nature,tropical,384,36
+Kyoto,Asia,urban,nature,temperate,430,231
+Kyoto,Asia,urban,nature,arid,236,282
+Kyoto,Asia,urban,nature,cold,57,207
+Kyoto,Asia,urban,nature,rainy,394,83
+Kyoto,Asia,urban,nature,cloudy,314,110
+Kyoto,Asia,coastal,cultural,tropical,152,111
+Kyoto,Asia,coastal,cultural,temperate,395,91
+Kyoto,Asia,coastal,cultural,arid,28,159
+Kyoto,Asia,coastal,cultural,cold,123,222
+Kyoto,Asia,coastal,cultural,rainy,305,208
+Kyoto,Asia,coastal,cultural,cloudy,34,65
+Kyoto,Asia,coastal,adventure,tropical,168,73
+Kyoto,Asia,coastal,adventure,temperate,403,206
+Kyoto,Asia,coastal,adventure,arid,42,35
+Kyoto,Asia,coastal,adventure,cold,305,215
+Kyoto,Asia,coastal,adventure,rainy,464,63
+Kyoto,Asia,coastal,adventure,cloudy,444,187
+Kyoto,Asia,coastal,beach,tropical,144,152
+Kyoto,Asia,coastal,beach,temperate,173,260
+Kyoto,Asia,coastal,beach,arid,400,49
+Kyoto,Asia,coastal,beach,cold,235,59
+Kyoto,Asia,coastal,beach,rainy,484,292
+Kyoto,Asia,coastal,beach,cloudy,199,204
+Kyoto,Asia,coastal,medical,tropical,45,166
+Kyoto,Asia,coastal,medical,temperate,415,204
+Kyoto,Asia,coastal,medical,arid,75,149
+Kyoto,Asia,coastal,medical,cold,318,289
+Kyoto,Asia,coastal,medical,rainy,402,261
+Kyoto,Asia,coastal,medical,cloudy,363,192
+Kyoto,Asia,coastal,nature,tropical,44,212
+Kyoto,Asia,coastal,nature,temperate,449,193
+Kyoto,Asia,coastal,nature,arid,163,59
+Kyoto,Asia,coastal,nature,cold,213,28
+Kyoto,Asia,coastal,nature,rainy,329,167
+Kyoto,Asia,coastal,nature,cloudy,364,222
+Beijing,Asia,historical,cultural,tropical,206,41
+Beijing,Asia,historical,cultural,temperate,487,98
+Beijing,Asia,historical,cultural,arid,365,68
+Beijing,Asia,historical,cultural,cold,40,95
+Beijing,Asia,historical,cultural,rainy,487,118
+Beijing,Asia,historical,cultural,cloudy,333,224
+Beijing,Asia,historical,adventure,tropical,351,297
+Beijing,Asia,historical,adventure,temperate,357,59
+Beijing,Asia,historical,adventure,arid,39,283
+Beijing,Asia,historical,adventure,cold,391,260
+Istanbul,Europe,historical,cultural,tropical,56,39
+Istanbul,Europe,historical,cultural,temperate,207,15
+Istanbul,Europe,historical,cultural,arid,185,153
+Istanbul,Europe,historical,cultural,cold,390,292
+Istanbul,Europe,historical,cultural,rainy,251,166
+Istanbul,Europe,historical,cultural,cloudy,83,77
+Istanbul,Europe,historical,adventure,tropical,115,278
+Istanbul,Europe,historical,adventure,temperate,273,102
+Istanbul,Europe,historical,adventure,arid,239,156
+Istanbul,Europe,historical,adventure,cold,207,280
+Istanbul,Europe,historical,adventure,rainy,393,202
+Istanbul,Europe,historical,adventure,cloudy,417,150
+Istanbul,Europe,historical,beach,tropical,160,78
+Istanbul,Europe,historical,beach,temperate,291,87
+Istanbul,Europe,historical,beach,arid,164,105
+Istanbul,Europe,historical,beach,cold,27,39
+Istanbul,Europe,historical,beach,rainy,45,56
+Istanbul,Europe,historical,beach,cloudy,265,268
+Istanbul,Europe,historical,medical,tropical,125,284
+Istanbul,Europe,historical,medical,temperate,301,188
+Istanbul,Europe,historical,medical,arid,414,70
+Istanbul,Europe,historical,medical,cold,405,131
+Istanbul,Europe,historical,medical,rainy,127,125
+Istanbul,Europe,historical,medical,cloudy,452,270
+Istanbul,Europe,historical,nature,tropical,296,37
+Istanbul,Europe,historical,nature,temperate,235,179
+Istanbul,Europe,historical,nature,arid,158,24
+Istanbul,Europe,historical,nature,cold,446,44
+Istanbul,Europe,historical,nature,rainy,164,88
+Istanbul,Europe,historical,nature,cloudy,60,300
+Istanbul,Europe,mountains,cultural,tropical,396,75
+Istanbul,Europe,mountains,cultural,temperate,204,206
+Istanbul,Europe,mountains,cultural,arid,131,147
+Istanbul,Europe,mountains,cultural,cold,185,219
+Istanbul,Europe,mountains,cultural,rainy,376,126
+Istanbul,Europe,mountains,cultural,cloudy,331,67
+Istanbul,Europe,mountains,adventure,tropical,290,188
+Istanbul,Europe,mountains,adventure,temperate,159,75
+Istanbul,Europe,mountains,adventure,arid,273,66
+Istanbul,Europe,mountains,adventure,cold,44,43
+Istanbul,Europe,mountains,adventure,rainy,415,210
+Istanbul,Europe,mountains,adventure,cloudy,257,95
+Istanbul,Europe,mountains,beach,tropical,228,191
+Istanbul,Europe,mountains,beach,temperate,486,54
+Istanbul,Europe,mountains,beach,arid,55,154
+Istanbul,Europe,mountains,beach,cold,335,255
+Istanbul,Europe,mountains,beach,rainy,309,109
+Istanbul,Europe,mountains,beach,cloudy,481,51
+Istanbul,Europe,mountains,medical,tropical,285,179
+Istanbul,Europe,mountains,medical,temperate,40,88
+Istanbul,Europe,mountains,medical,arid,369,220
+Istanbul,Europe,mountains,medical,cold,64,162
+Istanbul,Europe,mountains,medical,rainy,95,207
+Istanbul,Europe,mountains,medical,cloudy,105,200
+Istanbul,Europe,mountains,nature,tropical,263,136
+Istanbul,Europe,mountains,nature,temperate,211,220
+Istanbul,Europe,mountains,nature,arid,251,46
+Istanbul,Europe,mountains,nature,cold,298,260
+Istanbul,Europe,mountains,nature,rainy,110,207
+Istanbul,Europe,mountains,nature,cloudy,320,63
+Istanbul,Europe,urban,cultural,tropical,310,234
+Istanbul,Europe,urban,cultural,temperate,363,214
+Istanbul,Europe,urban,cultural,arid,239,39
+Istanbul,Europe,urban,cultural,cold,297,82
+Istanbul,Europe,urban,cultural,rainy,492,235
+Istanbul,Europe,urban,cultural,cloudy,34,290
+Istanbul,Europe,urban,adventure,tropical,386,276
+Istanbul,Europe,urban,adventure,temperate,201,82
+Istanbul,Europe,urban,adventure,arid,93,122
+Istanbul,Europe,urban,adventure,cold,205,201
+Istanbul,Europe,urban,adventure,rainy,119,284
+Istanbul,Europe,urban,adventure,cloudy,421,90
+Istanbul,Europe,urban,beach,tropical,403,28
+Istanbul,Europe,urban,beach,temperate,153,110
+Istanbul,Europe,urban,beach,arid,188,287
+Istanbul,Europe,urban,beach,cold,200,78
+Istanbul,Europe,urban,beach,rainy,160,113
+Istanbul,Europe,urban,beach,cloudy,207,54
+Istanbul,Europe,urban,medical,tropical,227,179
+Istanbul,Europe,urban,medical,temperate,384,143
+Istanbul,Europe,urban,medical,arid,46,213
+Istanbul,Europe,urban,medical,cold,37,37
+Istanbul,Europe,urban,medical,rainy,353,248
+Istanbul,Europe,urban,medical,cloudy,70,286
+Istanbul,Europe,urban,nature,tropical,161,218
+Istanbul,Europe,urban,nature,temperate,298,262
+Istanbul,Europe,urban,nature,arid,416,140
+Istanbul,Europe,urban,nature,cold,486,161
+Istanbul,Europe,urban,nature,rainy,184,217
+Istanbul,Europe,urban,nature,cloudy,168,247
+Istanbul,Europe,coastal,cultural,tropical,330,271
+Istanbul,Europe,coastal,cultural,temperate,255,146
+Istanbul,Europe,coastal,cultural,arid,404,133
+Istanbul,Europe,coastal,cultural,cold,359,151
+Istanbul,Europe,coastal,cultural,rainy,439,237
+Istanbul,Europe,coastal,cultural,cloudy,328,255
+Istanbul,Europe,coastal,adventure,tropical,349,249
+Istanbul,Europe,coastal,adventure,temperate,306,153
+Istanbul,Europe,coastal,adventure,arid,128,91
+Istanbul,Europe,coastal,adventure,cold,499,235
+Istanbul,Europe,coastal,adventure,rainy,145,175
+Istanbul,Europe,coastal,adventure,cloudy,221,174
+Istanbul,Europe,coastal,beach,tropical,481,32
+Istanbul,Europe,coastal,beach,temperate,216,141
+Istanbul,Europe,coastal,beach,arid,410,111
+Istanbul,Europe,coastal,beach,cold,431,76
+Istanbul,Europe,coastal,beach,rainy,416,106
+Istanbul,Europe,coastal,beach,cloudy,233,234
+Istanbul,Europe,coastal,medical,tropical,37,227
+Istanbul,Europe,coastal,medical,temperate,73,195
+Istanbul,Europe,coastal,medical,arid,25,106
+Istanbul,Europe,coastal,medical,cold,163,207
+Istanbul,Europe,coastal,medical,rainy,276,239
+Istanbul,Europe,coastal,medical,cloudy,139,78
+Istanbul,Europe,coastal,nature,tropical,51,240
+Istanbul,Europe,coastal,nature,temperate,154,23
+Istanbul,Europe,coastal,nature,arid,171,65
+Istanbul,Europe,coastal,nature,cold,367,230
+Istanbul,Europe,coastal,nature,rainy,208,85
+Istanbul,Europe,coastal,nature,cloudy,42,168
+Paris,Europe,historical,cultural,tropical,473,10
+Paris,Europe,historical,cultural,temperate,388,40
+Paris,Europe,historical,cultural,arid,282,220
+Paris,Europe,historical,cultural,cold,497,217
+Paris,Europe,historical,cultural,rainy,66,105
+Paris,Europe,historical,cultural,cloudy,204,127
+Paris,Europe,historical,adventure,tropical,62,254
+Paris,Europe,historical,adventure,temperate,93,149
+Paris,Europe,historical,adventure,arid,382,254
+Paris,Europe,historical,adventure,cold,30,90
+Paris,Europe,historical,adventure,rainy,208,182
+Paris,Europe,historical,adventure,cloudy,25,113
+Paris,Europe,historical,beach,tropical,436,45
+Paris,Europe,historical,beach,temperate,406,242
+Paris,Europe,historical,beach,arid,263,233
+Paris,Europe,historical,beach,cold,96,184
+Paris,Europe,historical,beach,rainy,316,226
+Paris,Europe,historical,beach,cloudy,114,204
+Paris,Europe,historical,medical,tropical,346,273
+Paris,Europe,historical,medical,temperate,105,17
+Paris,Europe,historical,medical,arid,443,45
+Paris,Europe,historical,medical,cold,229,219
+Paris,Europe,historical,medical,rainy,52,196
+Paris,Europe,historical,medical,cloudy,253,35
+Paris,Europe,historical,nature,tropical,352,223
+Paris,Europe,historical,nature,temperate,63,44
+Paris,Europe,historical,nature,arid,352,120
+Paris,Europe,historical,nature,cold,313,129
+Paris,Europe,historical,nature,rainy,384,75
+Paris,Europe,historical,nature,cloudy,197,210
+Paris,Europe,mountains,cultural,tropical,452,73
+Paris,Europe,mountains,cultural,temperate,411,105
+Paris,Europe,mountains,cultural,arid,458,54
+Paris,Europe,mountains,cultural,cold,293,62
+Paris,Europe,mountains,cultural,rainy,421,224
+Paris,Europe,mountains,cultural,cloudy,66,92
+Paris,Europe,mountains,adventure,tropical,38,143
+Paris,Europe,mountains,adventure,temperate,171,287
+Paris,Europe,mountains,adventure,arid,199,199
+Paris,Europe,mountains,adventure,cold,367,166
+Paris,Europe,mountains,adventure,rainy,425,207
+Paris,Europe,mountains,adventure,cloudy,402,23
+Paris,Europe,mountains,beach,tropical,24,119
+Paris,Europe,mountains,beach,temperate,409,239
+Paris,Europe,mountains,beach,arid,369,174
+Paris,Europe,mountains,beach,cold,206,222
+Paris,Europe,mountains,beach,rainy,375,210
+Paris,Europe,mountains,beach,cloudy,130,200
+Paris,Europe,mountains,medical,tropical,495,51
+Paris,Europe,mountains,medical,temperate,324,167
+Paris,Europe,mountains,medical,arid,98,276
+Paris,Europe,mountains,medical,cold,497,91
+Paris,Europe,mountains,medical,rainy,159,236
+Paris,Europe,mountains,medical,cloudy,317,226
+Paris,Europe,mountains,nature,tropical,355,108
+Paris,Europe,mountains,nature,temperate,105,192
+Paris,Europe,mountains,nature,arid,395,84
+Paris,Europe,mountains,nature,cold,396,101
+Paris,Europe,mountains,nature,rainy,102,182
+Paris,Europe,mountains,nature,cloudy,162,129
+Paris,Europe,urban,cultural,tropical,395,89
+Paris,Europe,urban,cultural,temperate,36,257
+Paris,Europe,urban,cultural,arid,154,47
+Paris,Europe,urban,cultural,cold,140,205
+Paris,Europe,urban,cultural,rainy,107,120
+Paris,Europe,urban,cultural,cloudy,335,264
+Paris,Europe,urban,adventure,tropical,373,105
+Paris,Europe,urban,adventure,temperate,64,170
+Paris,Europe,urban,adventure,arid,334,141
+Paris,Europe,urban,adventure,cold,345,105
+Paris,Europe,urban,adventure,rainy,333,48
+Paris,Europe,urban,adventure,cloudy,74,64
+Paris,Europe,urban,beach,tropical,34,299
+Paris,Europe,urban,beach,temperate,112,293
+Paris,Europe,urban,beach,arid,332,146
+Paris,Europe,urban,beach,cold,468,38
+Paris,Europe,urban,beach,rainy,208,54
+Paris,Europe,urban,beach,cloudy,187,51
+Paris,Europe,urban,medical,tropical,21,79
+Paris,Europe,urban,medical,temperate,212,253
+Paris,Europe,urban,medical,arid,464,105
+Paris,Europe,urban,medical,cold,246,209
+Paris,Europe,urban,medical,rainy,399,21
+Paris,Europe,urban,medical,cloudy,201,88
+Paris,Europe,urban,nature,tropical,240,109
+Paris,Europe,urban,nature,temperate,194,231
+Paris,Europe,urban,nature,arid,127,268
+Paris,Europe,urban,nature,cold,325,172
+Paris,Europe,urban,nature,rainy,118,231
+Paris,Europe,urban,nature,cloudy,48,205
+Paris,Europe,coastal,cultural,tropical,478,172
+Paris,Europe,coastal,cultural,temperate,107,198
+Paris,Europe,coastal,cultural,arid,84,291
+Paris,Europe,coastal,cultural,cold,209,196
+Paris,Europe,coastal,cultural,rainy,187,54
+Paris,Europe,coastal,cultural,cloudy,491,287
+Paris,Europe,coastal,adventure,tropical,317,150
+Paris,Europe,coastal,adventure,temperate,192,232
+Paris,Europe,coastal,adventure,arid,246,201
+Paris,Europe,coastal,adventure,cold,111,55
+Paris,Europe,coastal,adventure,rainy,186,17
+Paris,Europe,coastal,adventure,cloudy,476,45
+Paris,Europe,coastal,beach,tropical,137,252
+Paris,Europe,coastal,beach,temperate,389,157
+Paris,Europe,coastal,beach,arid,61,67
+Paris,Europe,coastal,beach,cold,307,32
+Paris,Europe,coastal,beach,rainy,55,47
+Paris,Europe,coastal,beach,cloudy,339,170
+Paris,Europe,coastal,medical,tropical,22,146
+Paris,Europe,coastal,medical,temperate,480,300
+Paris,Europe,coastal,medical,arid,489,13
+Paris,Europe,coastal,medical,cold,98,166
+Paris,Europe,coastal,medical,rainy,62,64
+Paris,Europe,coastal,medical,cloudy,206,284
+Paris,Europe,coastal,nature,tropical,462,263
+Paris,Europe,coastal,nature,temperate,57,234
+Paris,Europe,coastal,nature,arid,490,76
+Paris,Europe,coastal,nature,cold,294,265
+Paris,Europe,coastal,nature,rainy,25,38
+Paris,Europe,coastal,nature,cloudy,68,283
+Rome,Europe,historical,cultural,tropical,277,30
+Rome,Europe,historical,cultural,temperate,463,44
+Rome,Europe,historical,cultural,arid,383,276
+Rome,Europe,historical,cultural,cold,468,173
+Rome,Europe,historical,cultural,rainy,190,12
+Rome,Europe,historical,cultural,cloudy,120,76
+Rome,Europe,historical,adventure,tropical,192,233
+Rome,Europe,historical,adventure,temperate,89,141
+Rome,Europe,historical,adventure,arid,30,98
+Rome,Europe,historical,adventure,cold,292,63
+New York,North America,historical,cultural,tropical,348,190
+New York,North America,historical,cultural,temperate,387,104
+New York,North America,historical,cultural,arid,378,246
+New York,North America,historical,cultural,cold,330,75
+New York,North America,historical,cultural,rainy,39,285
+New York,North America,historical,cultural,cloudy,359,120
+New York,North America,historical,adventure,tropical,373,75
+New York,North America,historical,adventure,temperate,324,178
+New York,North America,historical,adventure,arid,108,150
+New York,North America,historical,adventure,cold,369,181
+New York,North America,historical,adventure,rainy,114,110
+New York,North America,historical,adventure,cloudy,238,186
+New York,North America,historical,beach,tropical,142,291
+New York,North America,historical,beach,temperate,103,262
+New York,North America,historical,beach,arid,395,188
+New York,North America,historical,beach,cold,405,173
+New York,North America,historical,beach,rainy,61,84
+New York,North America,historical,beach,cloudy,57,118
+New York,North America,historical,medical,tropical,414,124
+New York,North America,historical,medical,temperate,149,208
+New York,North America,historical,medical,arid,259,240
+New York,North America,historical,medical,cold,457,227
+New York,North America,historical,medical,rainy,183,227
+New York,North America,historical,medical,cloudy,190,17
+New York,North America,historical,nature,tropical,271,161
+New York,North America,historical,nature,temperate,376,236
+New York,North America,historical,nature,arid,215,52
+New York,North America,historical,nature,cold,399,140
+New York,North America,historical,nature,rainy,29,19
+New York,North America,historical,nature,cloudy,318,204
+New York,North America,mountains,cultural,tropical,43,184
+New York,North America,mountains,cultural,temperate,178,22
+New York,North America,mountains,cultural,arid,182,286
+New York,North America,mountains,cultural,cold,54,24
+New York,North America,mountains,cultural,rainy,154,73
+New York,North America,mountains,cultural,cloudy,55,232
+New York,North America,mountains,adventure,tropical,424,20
+New York,North America,mountains,adventure,temperate,155,282
+New York,North America,mountains,adventure,arid,163,148
+New York,North America,mountains,adventure,cold,467,286
+New York,North America,mountains,adventure,rainy,396,297
+New York,North America,mountains,adventure,cloudy,72,30
+New York,North America,mountains,beach,tropical,48,151
+New York,North America,mountains,beach,temperate,168,181
+New York,North America,mountains,beach,arid,477,147
+New York,North America,mountains,beach,cold,314,248
+New York,North America,mountains,beach,rainy,212,159
+New York,North America,mountains,beach,cloudy,397,168
+New York,North America,mountains,medical,tropical,437,109
+New York,North America,mountains,medical,temperate,152,32
+New York,North America,mountains,medical,arid,395,44
+New York,North America,mountains,medical,cold,21,26
+New York,North America,mountains,medical,rainy,243,65
+New York,North America,mountains,medical,cloudy,463,246
+New York,North America,mountains,nature,tropical,422,269
+New York,North America,mountains,nature,temperate,422,52
+New York,North America,mountains,nature,arid,130,188
+New York,North America,mountains,nature,cold,455,156
+New York,North America,mountains,nature,rainy,360,239
+New York,North America,mountains,nature,cloudy,387,249
+New York,North America,urban,cultural,tropical,34,238
+New York,North America,urban,cultural,temperate,433,17
+New York,North America,urban,cultural,arid,44,232
+New York,North America,urban,cultural,cold,276,264
+New York,North America,urban,cultural,rainy,77,205
+New York,North America,urban,cultural,cloudy,201,209
+New York,North America,urban,adventure,tropical,131,221
+New York,North America,urban,adventure,temperate,495,220
+New York,North America,urban,adventure,arid,54,56
+New York,North America,urban,adventure,cold,303,76
+New York,North America,urban,adventure,rainy,230,267
+New York,North America,urban,adventure,cloudy,181,168
+New York,North America,urban,beach,tropical,23,199
+New York,North America,urban,beach,temperate,184,36
+New York,North America,urban,beach,arid,348,151
+New York,North America,urban,beach,cold,438,164
+New York,North America,urban,beach,rainy,85,69
+New York,North America,urban,beach,cloudy,22,122
+New York,North America,urban,medical,tropical,369,272
+New York,North America,urban,medical,temperate,272,165
+New York,North America,urban,medical,arid,268,35
+New York,North America,urban,medical,cold,91,157
+New York,North America,urban,medical,rainy,362,287
+New York,North America,urban,medical,cloudy,135,266
+New York,North America,urban,nature,tropical,129,215
+New York,North America,urban,nature,temperate,180,23
+New York,North America,urban,nature,arid,228,232
+New York,North America,urban,nature,cold,308,23
+New York,North America,urban,nature,rainy,293,165
+New York,North America,urban,nature,cloudy,233,262
+New York,North America,coastal,cultural,tropical,473,46
+New York,North America,coastal,cultural,temperate,228,188
+New York,North America,coastal,cultural,arid,271,40
+New York,North America,coastal,cultural,cold,494,229
+New York,North America,coastal,cultural,rainy,447,221
+New York,North America,coastal,cultural,cloudy,247,127
+New York,North America,coastal,adventure,tropical,138,109
+New York,North America,coastal,adventure,temperate,66,18
+New York,North America,coastal,adventure,arid,55,198
+New York,North America,coastal,adventure,cold,449,203
+New York,North America,coastal,adventure,rainy,50,288
+New York,North America,coastal,adventure,cloudy,302,124
+New York,North America,coastal,beach,tropical,396,28
+New York,North America,coastal,beach,temperate,88,242
+New York,North America,coastal,beach,arid,459,106
+New York,North America,coastal,beach,cold,325,35
+New York,North America,coastal,beach,rainy,449,203
+New York,North America,coastal,beach,cloudy,306,61
+New York,North America,coastal,medical,tropical,105,166
+New York,North America,coastal,medical,temperate,394,26
+New York,North America,coastal,medical,arid,47,291
+New York,North America,coastal,medical,cold,38,15
+New York,North America,coastal,medical,rainy,260,102
+New York,North America,coastal,medical,cloudy,461,124
+New York,North America,coastal,nature,tropical,309,225
+New York,North America,coastal,nature,temperate,160,272
+New York,North America,coastal,nature,arid,57,127
+New York,North America,coastal,nature,cold,305,181
+New York,North America,coastal,nature,rainy,344,66
+New York,North America,coastal,nature,cloudy,455,178
+Los Angeles,North America,historical,cultural,tropical,102,152
+Los Angeles,North America,historical,cultural,temperate,257,233
+Los Angeles,North America,historical,cultural,arid,215,270
+Los Angeles,North America,historical,cultural,cold,240,276
+Los Angeles,North America,historical,cultural,rainy,442,143
+Los Angeles,North America,historical,cultural,cloudy,68,26
+Los Angeles,North America,historical,adventure,tropical,394,125
+Los Angeles,North America,historical,adventure,temperate,231,172
+Los Angeles,North America,historical,adventure,arid,447,254
+Los Angeles,North America,historical,adventure,cold,29,136
+Los Angeles,North America,historical,adventure,rainy,357,249
+Los Angeles,North America,historical,adventure,cloudy,497,258
+Los Angeles,North America,historical,beach,tropical,138,87
+Los Angeles,North America,historical,beach,temperate,339,50
+Los Angeles,North America,historical,beach,arid,478,271
+Los Angeles,North America,historical,beach,cold,177,183
+Los Angeles,North America,historical,beach,rainy,240,169
+Los Angeles,North America,historical,beach,cloudy,309,300
+Los Angeles,North America,historical,medical,tropical,123,230
+Los Angeles,North America,historical,medical,temperate,418,223
+Los Angeles,North America,historical,medical,arid,301,267
+Los Angeles,North America,historical,medical,cold,306,24
+Los Angeles,North America,historical,medical,rainy,295,268
+Los Angeles,North America,historical,medical,cloudy,451,112
+Los Angeles,North America,historical,nature,tropical,183,276
+Los Angeles,North America,historical,nature,temperate,325,71
+Los Angeles,North America,historical,nature,arid,100,127
+Los Angeles,North America,historical,nature,cold,377,15
+Los Angeles,North America,historical,nature,rainy,24,66
+Los Angeles,North America,historical,nature,cloudy,61,38
+Los Angeles,North America,mountains,cultural,tropical,451,89
+Los Angeles,North America,mountains,cultural,temperate,457,68
+Los Angeles,North America,mountains,cultural,arid,229,121
+Los Angeles,North America,mountains,cultural,cold,216,92
+Los Angeles,North America,mountains,cultural,rainy,276,176
+Los Angeles,North America,mountains,cultural,cloudy,457,269
+Los Angeles,North America,mountains,adventure,tropical,322,157
+Los Angeles,North America,mountains,adventure,temperate,116,27
+Los Angeles,North America,mountains,adventure,arid,312,267
+Los Angeles,North America,mountains,adventure,cold,78,126
+Los Angeles,North America,mountains,adventure,rainy,143,19
+Los Angeles,North America,mountains,adventure,cloudy,373,122
+Los Angeles,North America,mountains,beach,tropical,85,295
+Los Angeles,North America,mountains,beach,temperate,259,124
+Los Angeles,North America,mountains,beach,arid,294,61
+Los Angeles,North America,mountains,beach,cold,395,47
+Los Angeles,North America,mountains,beach,rainy,114,59
+Los Angeles,North America,mountains,beach,cloudy,32,78
+Los Angeles,North America,mountains,medical,tropical,40,22
+Los Angeles,North America,mountains,medical,temperate,91,50
+Los Angeles,North America,mountains,medical,arid,315,112
+Los Angeles,North America,mountains,medical,cold,123,94
+Los Angeles,North America,mountains,medical,rainy,219,287
+Los Angeles,North America,mountains,medical,cloudy,183,74
+Los Angeles,North America,mountains,nature,tropical,300,48
+Los Angeles,North America,mountains,nature,temperate,212,202
+Los Angeles,North America,mountains,nature,arid,428,77
+Los Angeles,North America,mountains,nature,cold,133,132
+Los Angeles,North America,mountains,nature,rainy,291,72
+Los Angeles,North America,mountains,nature,cloudy,80,12
+Los Angeles,North America,urban,cultural,tropical,51,32
+Los Angeles,North America,urban,cultural,temperate,423,140
+Los Angeles,North America,urban,cultural,arid,293,105
+Los Angeles,North America,urban,cultural,cold,192,255
+Los Angeles,North America,urban,cultural,rainy,490,56
+Los Angeles,North America,urban,cultural,cloudy,252,139
+Los Angeles,North America,urban,adventure,tropical,493,97
+Los Angeles,North America,urban,adventure,temperate,299,185
+Los Angeles,North America,urban,adventure,arid,306,256
+Los Angeles,North America,urban,adventure,cold,247,114
+Los Angeles,North America,urban,adventure,rainy,224,120
+Los Angeles,North America,urban,adventure,cloudy,75,36
+Los Angeles,North America,urban,beach,tropical,499,281
+Los Angeles,North America,urban,beach,temperate,133,202
+Los Angeles,North America,urban,beach,arid,412,13
+Los Angeles,North America,urban,beach,cold,432,73
+Los Angeles,North America,urban,beach,rainy,460,212
+Los Angeles,North America,urban,beach,cloudy,102,203
+Los Angeles,North America,urban,medical,tropical,142,243
+Los Angeles,North America,urban,medical,temperate,240,220
+Los Angeles,North America,urban,medical,arid,262,44
+Los Angeles,North America,urban,medical,cold,309,48
+Los Angeles,North America,urban,medical,rainy,88,148
+Los Angeles,North America,urban,medical,cloudy,216,32
+Los Angeles,North America,urban,nature,tropical,326,200
+Los Angeles,North America,urban,nature,temperate,350,139
+Los Angeles,North America,urban,nature,arid,124,137
+Los Angeles,North America,urban,nature,cold,369,193
+Los Angeles,North America,urban,nature,rainy,244,286
+Los Angeles,North America,urban,nature,cloudy,145,231
+Los Angeles,North America,coastal,cultural,tropical,425,177
+Los Angeles,North America,coastal,cultural,temperate,94,178
+Los Angeles,North America,coastal,cultural,arid,171,170
+Los Angeles,North America,coastal,cultural,cold,410,117
+Los Angeles,North America,coastal,cultural,rainy,476,24
+Los Angeles,North America,coastal,cultural,cloudy,23,38
+Los Angeles,North America,coastal,adventure,tropical,146,206
+Los Angeles,North America,coastal,adventure,temperate,108,25
+Los Angeles,North America,coastal,adventure,arid,238,150
+Los Angeles,North America,coastal,adventure,cold,373,294
+Los Angeles,North America,coastal,adventure,rainy,442,143
+Los Angeles,North America,coastal,adventure,cloudy,37,247
+Los Angeles,North America,coastal,beach,tropical,119,171
+Los Angeles,North America,coastal,beach,temperate,426,216
+Los Angeles,North America,coastal,beach,arid,122,192
+Los Angeles,North America,coastal,beach,cold,326,71
+Los Angeles,North America,coastal,beach,rainy,300,296
+Los Angeles,North America,coastal,beach,cloudy,262,212
+Los Angeles,North America,coastal,medical,tropical,80,197
+Los Angeles,North America,coastal,medical,temperate,78,44
+Los Angeles,North America,coastal,medical,arid,352,251
+Los Angeles,North America,coastal,medical,cold,285,244
+Los Angeles,North America,coastal,medical,rainy,147,245
+Los Angeles,North America,coastal,medical,cloudy,179,74
+Los Angeles,North America,coastal,nature,tropical,209,276
+Los Angeles,North America,coastal,nature,temperate,427,61
+Los Angeles,North America,coastal,nature,arid,234,271
+Los Angeles,North America,coastal,nature,cold,39,258
+Los Angeles,North America,coastal,nature,rainy,401,195
+Los Angeles,North America,coastal,nature,cloudy,67,68
+Chicago,North America,historical,cultural,tropical,386,183
+Chicago,North America,historical,cultural,temperate,187,130
+Chicago,North America,historical,cultural,arid,409,118
+Chicago,North America,historical,cultural,cold,413,130
+Chicago,North America,historical,cultural,rainy,218,60
+Chicago,North America,historical,cultural,cloudy,441,175
+Chicago,North America,historical,adventure,tropical,172,131
+Chicago,North America,historical,adventure,temperate,132,113
+Chicago,North America,historical,adventure,arid,262,164
+Chicago,North America,historical,adventure,cold,481,85
+Buenos Aires,South America,historical,cultural,tropical,227,145
+Buenos Aires,South America,historical,cultural,temperate,498,140
+Buenos Aires,South America,historical,cultural,arid,345,168
+Buenos Aires,South America,historical,cultural,cold,120,119
+Buenos Aires,South America,historical,cultural,rainy,482,208
+Buenos Aires,South America,historical,cultural,cloudy,393,113
+Buenos Aires,South America,historical,adventure,tropical,210,226
+Buenos Aires,South America,historical,adventure,temperate,343,233
+Buenos Aires,South America,historical,adventure,arid,379,70
+Buenos Aires,South America,historical,adventure,cold,292,30
+Buenos Aires,South America,historical,adventure,rainy,288,54
+Buenos Aires,South America,historical,adventure,cloudy,285,164
+Buenos Aires,South America,historical,beach,tropical,362,213
+Buenos Aires,South America,historical,beach,temperate,73,92
+Buenos Aires,South America,historical,beach,arid,123,17
+Buenos Aires,South America,historical,beach,cold,87,207
+Buenos Aires,South America,historical,beach,rainy,116,47
+Buenos Aires,South America,historical,beach,cloudy,399,184
+Buenos Aires,South America,historical,medical,tropical,22,125
+Buenos Aires,South America,historical,medical,temperate,457,183
+Buenos Aires,South America,historical,medical,arid,431,184
+Buenos Aires,South America,historical,medical,cold,48,148
+Buenos Aires,South America,historical,medical,rainy,57,56
+Buenos Aires,South America,historical,medical,cloudy,264,195
+Buenos Aires,South America,historical,nature,tropical,334,273
+Buenos Aires,South America,historical,nature,temperate,140,297
+Buenos Aires,South America,historical,nature,arid,282,67
+Buenos Aires,South America,historical,nature,cold,220,205
+Buenos Aires,South America,historical,nature,rainy,281,159
+Buenos Aires,South America,historical,nature,cloudy,126,150
+Buenos Aires,South America,mountains,cultural,tropical,487,234
+Buenos Aires,South America,mountains,cultural,temperate,329,48
+Buenos Aires,South America,mountains,cultural,arid,146,105
+Buenos Aires,South America,mountains,cultural,cold,323,68
+Buenos Aires,South America,mountains,cultural,rainy,247,282
+Buenos Aires,South America,mountains,cultural,cloudy,427,240
+Buenos Aires,South America,mountains,adventure,tropical,482,236
+Buenos Aires,South America,mountains,adventure,temperate,94,163
+Buenos Aires,South America,mountains,adventure,arid,58,216
+Buenos Aires,South America,mountains,adventure,cold,111,192
+Buenos Aires,South America,mountains,adventure,rainy,463,55
+Buenos Aires,South America,mountains,adventure,cloudy,279,280
+Buenos Aires,South America,mountains,beach,tropical,162,118
+Buenos Aires,South America,mountains,beach,temperate,162,214
+Buenos Aires,South America,mountains,beach,arid,101,32
+Buenos Aires,South America,mountains,beach,cold,494,130
+Buenos Aires,South America,mountains,beach,rainy,27,67
+Buenos Aires,South America,mountains,beach,cloudy,434,138
+Buenos Aires,South America,mountains,medical,tropical,101,189
+Buenos Aires,South America,mountains,medical,temperate,354,274
+Buenos Aires,South America,mountains,medical,arid,215,229
+Buenos Aires,South America,mountains,medical,cold,144,116
+Buenos Aires,South America,mountains,medical,rainy,209,138
+Buenos Aires,South America,mountains,medical,cloudy,169,71
+Buenos Aires,South America,mountains,nature,tropical,226,252
+Buenos Aires,South America,mountains,nature,temperate,233,93
+Buenos Aires,South America,mountains,nature,arid,413,95
+Buenos Aires,South America,mountains,nature,cold,226,31
+Buenos Aires,South America,mountains,nature,rainy,367,51
+Buenos Aires,South America,mountains,nature,cloudy,336,18
+Buenos Aires,South America,urban,cultural,tropical,268,161
+Buenos Aires,South America,urban,cultural,temperate,32,29
+Buenos Aires,South America,urban,cultural,arid,317,231
+Buenos Aires,South America,urban,cultural,cold,100,299
+Buenos Aires,South America,urban,cultural,rainy,485,202
+Buenos Aires,South America,urban,cultural,cloudy,269,153
+Buenos Aires,South America,urban,adventure,tropical,26,173
+Buenos Aires,South America,urban,adventure,temperate,332,131
+Buenos Aires,South America,urban,adventure,arid,313,263
+Buenos Aires,South America,urban,adventure,cold,329,125
+Buenos Aires,South America,urban,adventure,rainy,176,260
+Buenos Aires,South America,urban,adventure,cloudy,69,125
+Buenos Aires,South America,urban,beach,tropical,499,160
+Buenos Aires,South America,urban,beach,temperate,207,110
+Buenos Aires,South America,urban,beach,arid,483,35
+Buenos Aires,South America,urban,beach,cold,289,10
+Buenos Aires,South America,urban,beach,rainy,279,284
+Buenos Aires,South America,urban,beach,cloudy,61,110
+Buenos Aires,South America,urban,medical,tropical,259,106
+Buenos Aires,South America,urban,medical,temperate,35,26
+Buenos Aires,South America,urban,medical,arid,498,227
+Buenos Aires,South America,urban,medical,cold,319,49
+Buenos Aires,South America,urban,medical,rainy,404,102
+Buenos Aires,South America,urban,medical,cloudy,123,117
+Buenos Aires,South America,urban,nature,tropical,131,232
+Buenos Aires,South America,urban,nature,temperate,325,240
+Buenos Aires,South America,urban,nature,arid,361,253
+Buenos Aires,South America,urban,nature,cold,77,196
+Buenos Aires,South America,urban,nature,rainy,58,195
+Buenos Aires,South America,urban,nature,cloudy,401,203
+Buenos Aires,South America,coastal,cultural,tropical,443,70
+Buenos Aires,South America,coastal,cultural,temperate,468,221
+Buenos Aires,South America,coastal,cultural,arid,227,171
+Buenos Aires,South America,coastal,cultural,cold,161,214
+Buenos Aires,South America,coastal,cultural,rainy,444,34
+Buenos Aires,South America,coastal,cultural,cloudy,325,169
+Buenos Aires,South America,coastal,adventure,tropical,94,270
+Buenos Aires,South America,coastal,adventure,temperate,448,106
+Buenos Aires,South America,coastal,adventure,arid,374,12
+Buenos Aires,South America,coastal,adventure,cold,306,83
+Buenos Aires,South America,coastal,adventure,rainy,290,211
+Buenos Aires,South America,coastal,adventure,cloudy,230,41
+Buenos Aires,South America,coastal,beach,tropical,287,30
+Buenos Aires,South America,coastal,beach,temperate,368,198
+Buenos Aires,South America,coastal,beach,arid,246,67
+Buenos Aires,South America,coastal,beach,cold,500,207
+Buenos Aires,South America,coastal,beach,rainy,207,260
+Buenos Aires,South America,coastal,beach,cloudy,44,261
+Buenos Aires,South America,coastal,medical,tropical,90,15
+Buenos Aires,South America,coastal,medical,temperate,366,95
+Buenos Aires,South America,coastal,medical,arid,472,163
+Buenos Aires,South America,coastal,medical,cold,48,49
+Buenos Aires,South America,coastal,medical,rainy,165,88
+Buenos Aires,South America,coastal,medical,cloudy,168,219
+Buenos Aires,South America,coastal,nature,tropical,224,184
+Buenos Aires,South America,coastal,nature,temperate,203,15
+Buenos Aires,South America,coastal,nature,arid,211,187
+Buenos Aires,South America,coastal,nature,cold,181,39
+Buenos Aires,South America,coastal,nature,rainy,491,29
+Buenos Aires,South America,coastal,nature,cloudy,219,42
+Sao Paulo,South America,historical,cultural,tropical,73,161
+Sao Paulo,South America,historical,cultural,temperate,40,82
+Sao Paulo,South America,historical,cultural,arid,366,48
+Sao Paulo,South America,historical,cultural,cold,124,255
+Sao Paulo,South America,historical,cultural,rainy,201,26
+Sao Paulo,South America,historical,cultural,cloudy,340,174
+Sao Paulo,South America,historical,adventure,tropical,330,122
+Sao Paulo,South America,historical,adventure,temperate,171,175
+Sao Paulo,South America,historical,adventure,arid,349,201
+Sao Paulo,South America,historical,adventure,cold,371,11
+Sao Paulo,South America,historical,adventure,rainy,72,26
+Sao Paulo,South America,historical,adventure,cloudy,299,241
+Sao Paulo,South America,historical,beach,tropical,252,146
+Sao Paulo,South America,historical,beach,temperate,291,78
+Sao Paulo,South America,historical,beach,arid,386,219
+Sao Paulo,South America,historical,beach,cold,100,263
+Sao Paulo,South America,historical,beach,rainy,130,240
+Sao Paulo,South America,historical,beach,cloudy,446,288
+Sao Paulo,South America,historical,medical,tropical,331,290
+Sao Paulo,South America,historical,medical,temperate,52,222
+Sao Paulo,South America,historical,medical,arid,22,95
+Sao Paulo,South America,historical,medical,cold,146,269
+Sao Paulo,South America,historical,medical,rainy,475,49
+Sao Paulo,South America,historical,medical,cloudy,26,108
+Sao Paulo,South America,historical,nature,tropical,257,107
+Sao Paulo,South America,historical,nature,temperate,105,171
+Sao Paulo,South America,historical,nature,arid,212,282
+Sao Paulo,South America,historical,nature,cold,403,246
+Sao Paulo,South America,historical,nature,rainy,115,100
+Sao Paulo,South America,historical,nature,cloudy,205,161
+Sao Paulo,South America,mountains,cultural,tropical,315,143
+Sao Paulo,South America,mountains,cultural,temperate,37,20
+Sao Paulo,South America,mountains,cultural,arid,191,105
+Sao Paulo,South America,mountains,cultural,cold,23,223
+Sao Paulo,South America,mountains,cultural,rainy,44,262
+Sao Paulo,South America,mountains,cultural,cloudy,387,236
+Sao Paulo,South America,mountains,adventure,tropical,392,89
+Sao Paulo,South America,mountains,adventure,temperate,278,57
+Sao Paulo,South America,mountains,adventure,arid,133,100
+Sao Paulo,South America,mountains,adventure,cold,279,269
+Sao Paulo,South America,mountains,adventure,rainy,450,268
+Sao Paulo,South America,mountains,adventure,cloudy,165,258
+Sao Paulo,South America,mountains,beach,tropical,122,202
+Sao Paulo,South America,mountains,beach,temperate,80,287
+Sao Paulo,South America,mountains,beach,arid,449,180
+Sao Paulo,South America,mountains,beach,cold,465,185
+Sao Paulo,South America,mountains,beach,rainy,90,125
+Sao Paulo,South America,mountains,beach,cloudy,210,299
+Sao Paulo,South America,mountains,medical,tropical,179,129
+Sao Paulo,South America,mountains,medical,temperate,384,266
+Sao Paulo,South America,mountains,medical,arid,72,260
+Sao Paulo,South America,mountains,medical,cold,469,54
+Sao Paulo,South America,mountains,medical,rainy,335,102
+Sao Paulo,South America,mountains,medical,cloudy,489,64
+Sao Paulo,South America,mountains,nature,tropical,82,188
+Sao Paulo,South America,mountains,nature,temperate,459,273
+Sao Paulo,South America,mountains,nature,arid,258,56
+Sao Paulo,South America,mountains,nature,cold,434,80
+Sao Paulo,South America,mountains,nature,rainy,487,277
+Sao Paulo,South America,mountains,nature,cloudy,64,31
+Sao Paulo,South America,urban,cultural,tropical,63,289
+Sao Paulo,South America,urban,cultural,temperate,90,27
+Sao Paulo,South America,urban,cultural,arid,248,166
+Sao Paulo,South America,urban,cultural,cold,28,61
+Sao Paulo,South America,urban,cultural,rainy,498,64
+Sao Paulo,South America,urban,cultural,cloudy,397,250
+Sao Paulo,South America,urban,adventure,tropical,358,288
+Sao Paulo,South America,urban,adventure,temperate,82,73
+Sao Paulo,South America,urban,adventure,arid,345,157
+Sao Paulo,South America,urban,adventure,cold,204,109
+Sao Paulo,South America,urban,adventure,rainy,497,37
+Sao Paulo,South America,urban,adventure,cloudy,478,26
+Sao Paulo,South America,urban,beach,tropical,340,166
+Sao Paulo,South America,urban,beach,temperate,24,265
+Sao Paulo,South America,urban,beach,arid,462,154
+Sao Paulo,South America,urban,beach,cold,82,123
+Sao Paulo,South America,urban,beach,rainy,168,158
+Sao Paulo,South America,urban,beach,cloudy,244,122
+Sao Paulo,South America,urban,medical,tropical,500,286
+Sao Paulo,South America,urban,medical,temperate,436,51
+Sao Paulo,South America,urban,medical,arid,258,200
+Sao Paulo,South America,urban,medical,cold,22,293
+Sao Paulo,South America,urban,medical,rainy,395,209
+Sao Paulo,South America,urban,medical,cloudy,120,203
+Sao Paulo,South America,urban,nature,tropical,32,34
+Sao Paulo,South America,urban,nature,temperate,102,53
+Sao Paulo,South America,urban,nature,arid,266,59
+Sao Paulo,South America,urban,nature,cold,411,227
+Sao Paulo,South America,urban,nature,rainy,160,75
+Sao Paulo,South America,urban,nature,cloudy,104,231
+Sao Paulo,South America,coastal,cultural,tropical,68,70
+Sao Paulo,South America,coastal,cultural,temperate,258,66
+Sao Paulo,South America,coastal,cultural,arid,162,197
+Sao Paulo,South America,coastal,cultural,cold,207,109
+Sao Paulo,South America,coastal,cultural,rainy,62,275
+Sao Paulo,South America,coastal,cultural,cloudy,379,21
+Sao Paulo,South America,coastal,adventure,tropical,471,155
+Sao Paulo,South America,coastal,adventure,temperate,137,54
+Sao Paulo,South America,coastal,adventure,arid,246,273
+Sao Paulo,South America,coastal,adventure,cold,100,237
+Sao Paulo,South America,coastal,adventure,rainy,433,274
+Sao Paulo,South America,coastal,adventure,cloudy,252,229
+Sao Paulo,South America,coastal,beach,tropical,195,234
+Sao Paulo,South America,coastal,beach,temperate,339,90
+Sao Paulo,South America,coastal,beach,arid,463,36
+Sao Paulo,South America,coastal,beach,cold,172,79
+Sao Paulo,South America,coastal,beach,rainy,288,41
+Sao Paulo,South America,coastal,beach,cloudy,34,59
+Sao Paulo,South America,coastal,medical,tropical,225,148
+Sao Paulo,South America,coastal,medical,temperate,366,117
+Sao Paulo,South America,coastal,medical,arid,69,261
+Sao Paulo,South America,coastal,medical,cold,423,245
+Sao Paulo,South America,coastal,medical,rainy,74,108
+Sao Paulo,South America,coastal,medical,cloudy,80,41
+Sao Paulo,South America,coastal,nature,tropical,357,28
+Sao Paulo,South America,coastal,nature,temperate,222,271
+Sao Paulo,South America,coastal,nature,arid,448,110
+Sao Paulo,South America,coastal,nature,cold,368,121
+Sao Paulo,South America,coastal,nature,rainy,268,42
+Sao Paulo,South America,coastal,nature,cloudy,468,73
+Rio de Janeiro,South America,historical,cultural,tropical,209,35
+Rio de Janeiro,South America,historical,cultural,temperate,78,202
+Rio de Janeiro,South America,historical,cultural,arid,293,278
+Rio de Janeiro,South America,historical,cultural,cold,277,198
+Rio de Janeiro,South America,historical,cultural,rainy,213,287
+Rio de Janeiro,South America,historical,cultural,cloudy,456,101
+Rio de Janeiro,South America,historical,adventure,tropical,347,223
+Rio de Janeiro,South America,historical,adventure,temperate,158,116
+Rio de Janeiro,South America,historical,adventure,arid,38,131
+Rio de Janeiro,South America,historical,adventure,cold,463,277
+Sydney,Oceania,historical,cultural,tropical,383,84
+Sydney,Oceania,historical,cultural,temperate,454,54
+Sydney,Oceania,historical,cultural,arid,340,39
+Sydney,Oceania,historical,cultural,cold,153,262
+Sydney,Oceania,historical,cultural,rainy,92,231
+Sydney,Oceania,historical,cultural,cloudy,441,280
+Sydney,Oceania,historical,adventure,tropical,296,95
+Sydney,Oceania,historical,adventure,temperate,199,25
+Sydney,Oceania,historical,adventure,arid,280,94
+Sydney,Oceania,historical,adventure,cold,172,267
+Sydney,Oceania,historical,adventure,rainy,378,287
+Sydney,Oceania,historical,adventure,cloudy,450,133
+Sydney,Oceania,historical,beach,tropical,343,243
+Sydney,Oceania,historical,beach,temperate,293,248
+Sydney,Oceania,historical,beach,arid,322,164
+Sydney,Oceania,historical,beach,cold,317,28
+Sydney,Oceania,historical,beach,rainy,373,158
+Sydney,Oceania,historical,beach,cloudy,356,291
+Sydney,Oceania,historical,medical,tropical,304,157
+Sydney,Oceania,historical,medical,temperate,267,138
+Sydney,Oceania,historical,medical,arid,142,260
+Sydney,Oceania,historical,medical,cold,21,178
+Sydney,Oceania,historical,medical,rainy,148,12
+Sydney,Oceania,historical,medical,cloudy,104,295
+Sydney,Oceania,historical,nature,tropical,293,168
+Sydney,Oceania,historical,nature,temperate,199,161
+Sydney,Oceania,historical,nature,arid,70,129
+Sydney,Oceania,historical,nature,cold,128,79
+Sydney,Oceania,historical,nature,rainy,127,129
+Sydney,Oceania,historical,nature,cloudy,369,201
+Sydney,Oceania,mountains,cultural,tropical,275,282
+Sydney,Oceania,mountains,cultural,temperate,87,17
+Sydney,Oceania,mountains,cultural,arid,409,17
+Sydney,Oceania,mountains,cultural,cold,376,167
+Sydney,Oceania,mountains,cultural,rainy,90,158
+Sydney,Oceania,mountains,cultural,cloudy,385,82
+Sydney,Oceania,mountains,adventure,tropical,132,41
+Sydney,Oceania,mountains,adventure,temperate,281,228
+Sydney,Oceania,mountains,adventure,arid,61,171
+Sydney,Oceania,mountains,adventure,cold,145,52
+Sydney,Oceania,mountains,adventure,rainy,123,51
+Sydney,Oceania,mountains,adventure,cloudy,230,27
+Sydney,Oceania,mountains,beach,tropical,155,171
+Sydney,Oceania,mountains,beach,temperate,69,279
+Sydney,Oceania,mountains,beach,arid,325,161
+Sydney,Oceania,mountains,beach,cold,398,161
+Sydney,Oceania,mountains,beach,rainy,415,262
+Sydney,Oceania,mountains,beach,cloudy,141,216
+Sydney,Oceania,mountains,medical,tropical,431,143
+Sydney,Oceania,mountains,medical,temperate,99,61
+Sydney,Oceania,mountains,medical,arid,107,97
+Sydney,Oceania,mountains,medical,cold,267,153
+Sydney,Oceania,mountains,medical,rainy,284,10
+Sydney,Oceania,mountains,medical,cloudy,332,165
+Sydney,Oceania,mountains,nature,tropical,175,147
+Sydney,Oceania,mountains,nature,temperate,262,20
+Sydney,Oceania,mountains,nature,arid,54,292
+Sydney,Oceania,mountains,nature,cold,465,131
+Sydney,Oceania,mountains,nature,rainy,250,258
+Sydney,Oceania,mountains,nature,cloudy,60,49
+Sydney,Oceania,urban,cultural,tropical,114,119
+Sydney,Oceania,urban,cultural,temperate,41,213
+Sydney,Oceania,urban,cultural,arid,235,32
+Sydney,Oceania,urban,cultural,cold,492,47
+Sydney,Oceania,urban,cultural,rainy,287,205
+Sydney,Oceania,urban,cultural,cloudy,90,271
+Sydney,Oceania,urban,adventure,tropical,95,233
+Sydney,Oceania,urban,adventure,temperate,142,260
+Sydney,Oceania,urban,adventure,arid,433,22
+Sydney,Oceania,urban,adventure,cold,164,14
+Sydney,Oceania,urban,adventure,rainy,334,267
+Sydney,Oceania,urban,adventure,cloudy,168,98
+Sydney,Oceania,urban,beach,tropical,79,277
+Sydney,Oceania,urban,beach,temperate,29,105
+Sydney,Oceania,urban,beach,arid,158,42
+Sydney,Oceania,urban,beach,cold,99,33
+Sydney,Oceania,urban,beach,rainy,226,32
+Sydney,Oceania,urban,beach,cloudy,324,274
+Sydney,Oceania,urban,medical,tropical,78,130
+Sydney,Oceania,urban,medical,temperate,347,103
+Sydney,Oceania,urban,medical,arid,38,43
+Sydney,Oceania,urban,medical,cold,432,67
+Sydney,Oceania,urban,medical,rainy,353,248
+Sydney,Oceania,urban,medical,cloudy,121,79
+Sydney,Oceania,urban,nature,tropical,231,122
+Sydney,Oceania,urban,nature,temperate,77,122
+Sydney,Oceania,urban,nature,arid,58,32
+Sydney,Oceania,urban,nature,cold,365,177
+Sydney,Oceania,urban,nature,rainy,190,103
+Sydney,Oceania,urban,nature,cloudy,189,59
+Sydney,Oceania,coastal,cultural,tropical,328,264
+Sydney,Oceania,coastal,cultural,temperate,37,79
+Sydney,Oceania,coastal,cultural,arid,258,101
+Sydney,Oceania,coastal,cultural,cold,345,75
+Sydney,Oceania,coastal,cultural,rainy,45,125
+Sydney,Oceania,coastal,cultural,cloudy,348,158
+Sydney,Oceania,coastal,adventure,tropical,136,162
+Sydney,Oceania,coastal,adventure,temperate,74,102
+Sydney,Oceania,coastal,adventure,arid,184,206
+Sydney,Oceania,coastal,adventure,cold,492,285
+Sydney,Oceania,coastal,adventure,rainy,288,58
+Sydney,Oceania,coastal,adventure,cloudy,441,164
+Sydney,Oceania,coastal,beach,tropical,123,171
+Sydney,Oceania,coastal,beach,temperate,178,143
+Sydney,Oceania,coastal,beach,arid,162,216
+Sydney,Oceania,coastal,beach,cold,313,268
+Sydney,Oceania,coastal,beach,rainy,125,257
+Sydney,Oceania,coastal,beach,cloudy,431,83
+Sydney,Oceania,coastal,medical,tropical,216,196
+Sydney,Oceania,coastal,medical,temperate,274,258
+Sydney,Oceania,coastal,medical,arid,430,235
+Sydney,Oceania,coastal,medical,cold,425,130
+Sydney,Oceania,coastal,medical,rainy,169,243
+Sydney,Oceania,coastal,medical,cloudy,243,157
+Sydney,Oceania,coastal,nature,tropical,444,295
+Sydney,Oceania,coastal,nature,temperate,292,107
+Sydney,Oceania,coastal,nature,arid,195,128
+Sydney,Oceania,coastal,nature,cold,89,107
+Sydney,Oceania,coastal,nature,rainy,51,118
+Sydney,Oceania,coastal,nature,cloudy,93,300
+Melbourne,Oceania,historical,cultural,tropical,399,32
+Melbourne,Oceania,historical,cultural,temperate,184,150
+Melbourne,Oceania,historical,cultural,arid,156,12
+Melbourne,Oceania,historical,cultural,cold,397,61
+Melbourne,Oceania,historical,cultural,rainy,469,62
+Melbourne,Oceania,historical,cultural,cloudy,232,68
+Melbourne,Oceania,historical,adventure,tropical,462,216
+Melbourne,Oceania,historical,adventure,temperate,463,169
+Melbourne,Oceania,historical,adventure,arid,52,145
+Melbourne,Oceania,historical,adventure,cold,288,39
+Melbourne,Oceania,historical,adventure,rainy,306,65
+Melbourne,Oceania,historical,adventure,cloudy,365,54
+Melbourne,Oceania,historical,beach,tropical,442,150
+Melbourne,Oceania,historical,beach,temperate,155,11
+Melbourne,Oceania,historical,beach,arid,53,204
+Melbourne,Oceania,historical,beach,cold,328,38
+Melbourne,Oceania,historical,beach,rainy,416,266
+Melbourne,Oceania,historical,beach,cloudy,96,98
+Melbourne,Oceania,historical,medical,tropical,362,275
+Melbourne,Oceania,historical,medical,temperate,182,184
+Melbourne,Oceania,historical,medical,arid,57,116
+Melbourne,Oceania,historical,medical,cold,33,72
+Melbourne,Oceania,historical,medical,rainy,48,111
+Melbourne,Oceania,historical,medical,cloudy,59,202
+Melbourne,Oceania,historical,nature,tropical,225,63
+Melbourne,Oceania,historical,nature,temperate,435,27
+Melbourne,Oceania,historical,nature,arid,391,170
+Melbourne,Oceania,historical,nature,cold,480,243
+Melbourne,Oceania,historical,nature,rainy,459,92
+Melbourne,Oceania,historical,nature,cloudy,472,57
+Melbourne,Oceania,mountains,cultural,tropical,105,203
+Melbourne,Oceania,mountains,cultural,temperate,326,136
+Melbourne,Oceania,mountains,cultural,arid,410,67
+Melbourne,Oceania,mountains,cultural,cold,361,20
+Melbourne,Oceania,mountains,cultural,rainy,55,77
+Melbourne,Oceania,mountains,cultural,cloudy,418,90
+Melbourne,Oceania,mountains,adventure,tropical,180,216
+Melbourne,Oceania,mountains,adventure,temperate,428,191
+Melbourne,Oceania,mountains,adventure,arid,366,70
+Melbourne,Oceania,mountains,adventure,cold,483,210
+Melbourne,Oceania,mountains,adventure,rainy,109,279
+Melbourne,Oceania,mountains,adventure,cloudy,464,108
+Melbourne,Oceania,mountains,beach,tropical,133,29
+Melbourne,Oceania,mountains,beach,temperate,122,24
+Melbourne,Oceania,mountains,beach,arid,31,138
+Melbourne,Oceania,mountains,beach,cold,410,37
+Melbourne,Oceania,mountains,beach,rainy,104,189
+Melbourne,Oceania,mountains,beach,cloudy,473,146
+Melbourne,Oceania,mountains,medical,tropical,315,295
+Melbourne,Oceania,mountains,medical,temperate,145,99
+Melbourne,Oceania,mountains,medical,arid,403,240
+Melbourne,Oceania,mountains,medical,cold,160,118
+Melbourne,Oceania,mountains,medical,rainy,72,82
+Melbourne,Oceania,mountains,medical,cloudy,75,293
+Melbourne,Oceania,mountains,nature,tropical,439,202
+Melbourne,Oceania,mountains,nature,temperate,225,275
+Melbourne,Oceania,mountains,nature,arid,35,239
+Melbourne,Oceania,mountains,nature,cold,210,245
+Melbourne,Oceania,mountains,nature,rainy,97,271
+Melbourne,Oceania,mountains,nature,cloudy,488,211
+Melbourne,Oceania,urban,cultural,tropical,374,122
+Melbourne,Oceania,urban,cultural,temperate,184,38
+Melbourne,Oceania,urban,cultural,arid,490,70
+Melbourne,Oceania,urban,cultural,cold,339,267
+Melbourne,Oceania,urban,cultural,rainy,115,176
+Melbourne,Oceania,urban,cultural,cloudy,61,273
+Melbourne,Oceania,urban,adventure,tropical,143,32
+Melbourne,Oceania,urban,adventure,temperate,30,20
+Melbourne,Oceania,urban,adventure,arid,447,82
+Melbourne,Oceania,urban,adventure,cold,413,11
+Melbourne,Oceania,urban,adventure,rainy,353,242
+Melbourne,Oceania,urban,adventure,cloudy,119,130
+Melbourne,Oceania,urban,beach,tropical,133,203
+Melbourne,Oceania,urban,beach,temperate,202,53
+Melbourne,Oceania,urban,beach,arid,319,259
+Melbourne,Oceania,urban,beach,cold,340,107
+Melbourne,Oceania,urban,beach,rainy,111,143
+Melbourne,Oceania,urban,beach,cloudy,193,180
+Melbourne,Oceania,urban,medical,tropical,185,79
+Melbourne,Oceania,urban,medical,temperate,297,196
+Melbourne,Oceania,urban,medical,arid,181,76
+Melbourne,Oceania,urban,medical,cold,142,79
+Melbourne,Oceania,urban,medical,rainy,219,152
+Melbourne,Oceania,urban,medical,cloudy,201,164
+Melbourne,Oceania,urban,nature,tropical,129,236
+Melbourne,Oceania,urban,nature,temperate,183,299
+Melbourne,Oceania,urban,nature,arid,489,87
+Melbourne,Oceania,urban,nature,cold,273,238
+Melbourne,Oceania,urban,nature,rainy,397,294
+Melbourne,Oceania,urban,nature,cloudy,193,59
+Melbourne,Oceania,coastal,cultural,tropical,385,284
+Melbourne,Oceania,coastal,cultural,temperate,433,102
+Melbourne,Oceania,coastal,cultural,arid,86,207
+Melbourne,Oceania,coastal,cultural,cold,464,18
+Melbourne,Oceania,coastal,cultural,rainy,199,196
+Melbourne,Oceania,coastal,cultural,cloudy,392,249
+Melbourne,Oceania,coastal,adventure,tropical,334,133
+Melbourne,Oceania,coastal,adventure,temperate,435,186
+Melbourne,Oceania,coastal,adventure,arid,341,189
+Melbourne,Oceania,coastal,adventure,cold,392,16
+Melbourne,Oceania,coastal,adventure,rainy,84,265
+Melbourne,Oceania,coastal,adventure,cloudy,136,202
+Melbourne,Oceania,coastal,beach,tropical,332,132
+Melbourne,Oceania,coastal,beach,temperate,328,126
+Melbourne,Oceania,coastal,beach,arid,334,207
+Melbourne,Oceania,coastal,beach,cold,456,177
+Melbourne,Oceania,coastal,beach,rainy,440,280
+Melbourne,Oceania,coastal,beach,cloudy,350,112
+Melbourne,Oceania,coastal,medical,tropical,423,221
+Melbourne,Oceania,coastal,medical,temperate,195,171
+Melbourne,Oceania,coastal,medical,arid,394,65
+Melbourne,Oceania,coastal,medical,cold,334,300
+Melbourne,Oceania,coastal,medical,rainy,142,139
+Melbourne,Oceania,coastal,medical,cloudy,141,107
+Melbourne,Oceania,coastal,nature,tropical,474,37
+Melbourne,Oceania,coastal,nature,temperate,157,60
+Melbourne,Oceania,coastal,nature,arid,403,91
+Melbourne,Oceania,coastal,nature,cold,286,118
+Melbourne,Oceania,coastal,nature,rainy,430,100
+Melbourne,Oceania,coastal,nature,cloudy,102,157
+Auckland,Oceania,historical,cultural,tropical,84,189
+Auckland,Oceania,historical,cultural,temperate,361,29
+Auckland,Oceania,historical,cultural,arid,359,188
+Auckland,Oceania,historical,cultural,cold,184,151
+Auckland,Oceania,historical,cultural,rainy,448,39
+Auckland,Oceania,historical,cultural,cloudy,266,66
+Auckland,Oceania,historical,adventure,tropical,61,117
+Auckland,Oceania,historical,adventure,temperate,94,212
+Auckland,Oceania,historical,adventure,arid,146,37
+Auckland,Oceania,historical,adventure,cold,290,267
